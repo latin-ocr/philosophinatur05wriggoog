@@ -1,0 +1,53 @@
+159 TRAITE' SUB LE FLUX .
+
+XVL-Enfin nous remarquerons, que l'intersaIIe moyen de deux
+marces qui se suivent, lequel intervalle est de 24 heures lunsires, ou 24
+
+heures 50 minutes, n'est pas &galement iloigne des syzygies et des qua-
+dratures3 mais qu'iI est beaucoup plus pres des quadratures, que des
+syzygies: aussi pouvoit-on le prevoir facilemeut3 car comme toutes les
+accelerations depuis Ie point hjusqu’au point m (qui est celui, dont il est
+question ici) doivent compenses tous les retardemens depuis le point m
+jusqu’au point a, et que les acceleratione sont beaucoup plns pentes que
+les retardemens, on voit d'ahord, que le point m doit erre plus prds du
+point a, que du point b. Mais nous determinemus exactement ce point
+m par le moyen de la premiere Remarque du VIII. i. oti nous avons
+
+demontre que le sinus de l’arc mh est0= ι’ fiii-32: ι’ rh = 0,8866
+
+lequel sinus repond d uu arc de 56¹¹. 47¹¹. L’arc ιιι b etant donc de 56⁴.
+47¹²„ I’arc m a sera de 38⁶. 18⁸²„ et les deux ares mh et ma sont comme
+³407 i 1998.
+
+L'arc nb etant toujours de 45 degree (per ls 111. Remarque du
+VIII. t.) nous avons l’arc m n = 11⁶. 47¹³. ; et cet arc m n masque le
+plus gradd intervalle possible entre le passage de Ia Lune par le meri-
+dien, et Is haute meree. Cet intervalle est donc de 47 minutes' de tems:
+le passage de la Lune par Ie meridien suivra la haute meree depuis les
+syzygies jusqu'aux quadratura, et Ia precedere depuis les quadramres
+jusqu’aux syzygies. Mais le plus grand intervaile de l’un ri l’autre (qui
+se fait environ ἢ jours avant et apres les quadratures) ue surpasse jamnis
+
+¹ 47 minuties de tems.
+
+XVII-Toutes oss Propositions depuis le XI. ςι jusqu’ici, nous
+donnent une ides claire des heures des hautes marem, et de toutes leurs
+
+. variatione pour chaque rige de Is Luue. Car, quoi-quenosdemonstrstious
+soyent fort hypothedques, elles n’en meritant pas moins d’attention3 je
+ferai voir dans le Chapitre suivant, comment on peut donner des correo-
+tions assez justes d l'egard de tontes les hypotheses que j'ai exposees au
+XIX. ᾗ. du Chap. IV. Mais pour donner toute la perfectiori qui est
+possible, d cette matiere, je montrerai plus precisement, comment on
+peut trouver l'intervalle entre le passage de ln Lune par le meridien,
+etia haute martie, pour tout arc donne entre les deux luminaires3
+apres quoi je donnerai une table, que j’ai pris la peine de calculer
+de dix en dix degres. Ilsers facile apres cels moyeunaut les ephe·
+
+merides et des interpolations, de determinet l'heure des mardes gatersle-
+ment.
+
+ 
+
+ 
+

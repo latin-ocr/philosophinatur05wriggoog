@@ -1,0 +1,52 @@
+los TRAITE‘ SUR LE FLUX
+
+bont vers A. On voit donc que l'effet de l'attroction du corps A sur le
+
+⁸ corps B, est de communiquer sl celui-ci une pesanteur, qu’on suppose
+
+proportionnelle t ln masse du corps A divisse par le quatre de la dis-
+tnnoe3 et cette pesonteur doit encore &tre multiplise par la masse du ⁸
+sorps' B, pour avoir ln forse que se corps exerce s’il est empeche de s’up·
+
+procher du corps A.
+PROBLEME.
+
+lI.-Solt une souche spherique homogene‚ infinlment minoe, et d'une
+
+epmseur epulo, oomprise entre les surlaoes spheriques M N Ο R et ⁵
+
+P LQS, trouver l'ettruction, ou lu foroe acoelerauioe, que cese
+oouche exeroera sur un corps place nu point B, pris hors de ln sursuce
+exterieure.
+
+SOLUTION.
+
+Qn'on tire la droite ΒΟ pur le point B et le centro C, dans laquelle
+on prendru deux points infinimeut proohes Jet i: on tirera ensuite les
+deux perpendiculnires J L et i L et por les points L
+etl, outireroduoentrelesdroitaeCNetCn. soit
+&presentCB = ις CJ :13 Ji = dx; CP:
+
+b; P M ou L N (que nous regerdons somme ‘rofini- 1,,
+ment petite) = C: lo densite de ln moriere de ln '32 ·
+souche = m.
+
+On voit que pendent ln revolution uutour de l'oxe
+M Ο, la petite portio NL lu garde toujours une
+meme distance du point B, etque cette distance
+sera = el (ao-tax «Ι- bb): or, commeilfaut
+toujours diviser pnr le qunrre des distances, illuu· ·
+dra pour trouver le force eooelerstrice en question d'abord prendre
+
+Bit BLetonsuru μ’( r etoette quantist doit enoore
+(an-sstx†bb)3³f
+&tre multipliee por ramasse de l’snnesu, que ln partie N L n l forme par
+ss revolution, et ln masse doit etro exprimee por la densite nr et la capta-
+cite‘ de l’snnenu, &est-Mire (en nommant u la raison ‹le la circonference ἱ
+d'uuoercleslsonrsyon)purmxNLxlenxLJ: oupsr
+0
+
+st oette quantite doit erre multipliee pur la raison de
+
+ 
+

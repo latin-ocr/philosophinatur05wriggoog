@@ -1,0 +1,61 @@
+140 TRAITE' SUR LE FLUX
+
+Je n'ujofiterui pus ln demonstration de ce Lemme: mais il est pourtunt
+bon d'avertir ici, qu'en cherehunt lo voleur de p qui marque le sinus de
+
+la difftoenoe de deux angles donnes par leurs sinus, on tombe fueilement
+dens une outre expression beaucoup plus prolixe, et qui rend le eulcul
+
+du Probleme, que nous ollone expooer, preeque improtiooble.
+
+PROBLEME. ’
+
+Trouver lea points z, ou ler hauteurs y z soient les plus grandes.
+
+SOLUTION.
+
+Lu nenne de notre Probleme demando, que ln dintrenuelle de yz,
+
+uoutfflfflffffifflfflffnvmn
+
+Et si l’ou differentia l'equution seconde du preoedent Leonne, on trouve,
+
+premnt les quantites m, n et b pour constantes, et rpour variable,
+nnedo--nmodr42mnoo---nmbbda⁸
+
+M nffimffizw
+
+soit = o, ou bien Kd? = {fades
+
+εὴτ
+
+,χ En comparant ces deux valeurs de ς d g, on trouve nne nouvelle equetion,
+
+ὰ laquelle on pourro donner une telle forme,
+
+(-{bbe÷mmo-nne) &mstmneo-mnbb: si
+
+l’on suppose pour abreget ln formule {39 ÷ {Il-3. = A, on trouve
+
+apres une reduction entiere de l’equotion, le sinus de l’ungle b C z, ou
+
+}=‡t0‡
+
+ennffnnss'ospfit
+
+SCHOLIE.
+
+Xll.-Il ne seru pne difficile de reconnoitre donn chaque cns, quel
+choix on doit faire des signer ambiguo. Meis pour feciliter le chose, et
+pour en ‘donner une idee d'uutent plus distinete, on pourru seire les
+remarques qui suivent.
+
+1⁰. Que notre formule marque en meme tems quatre points z, Z, s et
+S; que les deux premiers diometmlement oppones, marquent que ln mer
+
+y o'st le plusghoute, et les deux autres diametralement opposes merquent '
+
+que la mer x est lo plus besse, et que l'arc z s est toujours de 90⁰, ce que
+
+ 
+

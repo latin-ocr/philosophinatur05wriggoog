@@ -1,0 +1,51 @@
+ET REI'LUX DE LA MER. ΠΗ
+
+uela aloru aux arca compris entre le polede l’ellipsoi'de et le point en ,
+
+uestion.
+
+q III-Volci a present comment il faut s'y prendre, pour trouver les
+memes bmsscmens et haussemens, qui se font pendant le mouvement
+diurne de la Terre dans un point queloonque, et la Lune ayant aussi une
+decliuaison queloonque. On voit qu'on aura toujours le manre ellipsoi'de,
+quelle que soit la declinaison dela Lune; mais qu'il sera obliquement
+posca l’egard dc l'equateur: on voit aussi qu’il faut e'imaginer dans ce
+spheroi'de allonge une sectiou pmallele eloquamur, qui passe par le
+point en question: oette seetion ne sera pus un oercle parfait, et se cir·
+conference n’aura pas tous ses points §galement eloigues du centre de
+l'ellipso'r'det c'est les differenoea de see distances, qui forment la netum
+des mardes. Il s'agit dono de determinet oes differences.
+
+IV.-Pour cet effet il sendra commencer par chercher lea dmtanoes de
+chaque point du parallele au pole de l'ellr'psoide (j’appelle einai l'extremitt
+de l’ellipso’r'de, qui prolonge, passe par le ceutre de la Lune) et ces'dis·
+
+tances etant oonnues, ilest facile de trouver ln distance du meme point ' Ι
+
+au centre de l’ellipsoi'de, et les differenoes de ces distances. Car si lc
+cosinus de la distance d'un point pris dans le parellele au pole de I’ellip·
+so'ide etoit g, le sinus total = 1, et si le demi axe de l'ellipsoi‘de est
+nomme b -Ι- l, et le plue petit demi-diametre b, la distance du point pris
+par le parallele jusqu'au oentre de l’ellipsoi'de sera generalement = b
+4- g ς t; nous avons demontre cette Proposition au §. V. Chap. V.
+
+V.-Nous montrerous donc d’abord‚ comment ilsuudra determinet la
+distance d'un point quelconque pris dans un parallelo donne au pole de
+l'ellipsoi'de. La voye de la trigonometrie spherique ordinaire nous seroit
+assez inutile ici, puisqu’il nous faut des expressions analytiques, applicables
+ti tous les cas, et truitables aux calcula. Si l’on vouloit tirer de telles ex·
+pressione des regles de la dite trigonometrie, les formulas qui en prurien-
+droieut seroieut beaucoup trop prolium. M. Mayers nous a donne lti-
+deasus un beau Memoire insere dans les Commentaires de l'Academie
+· Imperiale des Sciences de Petersbourg Tom. Il. p. 12. Il y a dans ce
+Memoire au XVIII. ᾗ. un Theoreme g‘eneral, par le moyen duquel on
+pourra toujours de trois choses donnees daus un triangle spherique‚
+t trouver le resta perdes expressions analytiques extremement simples.
+Voici le cas que notre sujet demande. ι
+
+soit dans un trinngle spherique, le sinus total = l ; le sinus d'un des
+cdtes = S; le cosinus du meme cdte = C; le sinus d'un autre crite =s;
+le cccmus de cet autre cote = c3 le cosinus de l’angle compris entre les
+
+ 
+
